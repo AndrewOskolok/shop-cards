@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/roboto-v20-latin-regular.woff2") format("woff2"),
+    url("../fonts/roboto-v20-latin-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/sf-ui-display-regular.woff2") format("woff2"),
+    url("../fonts/sf-ui-display-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/sf-ui-display-medium.woff2") format("woff2"),
+    url("../fonts/sf-ui-display-medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/sf-ui-display-semibold.woff2") format("woff2"),
+    url("../fonts/sf-ui-display-semibold.woff") format("woff");
+}
